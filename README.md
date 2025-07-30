@@ -47,3 +47,4 @@ This project uses a custom **No-Modification Redistribution License (NMRL)**:
 - No external contributions are accepted.
 
 See [LICENSE](./LICENSE) for full terms.
+See Our [Discord Server](https://discord.gg/bRJnxWx7ne) for support.
