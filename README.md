@@ -30,7 +30,7 @@ This project is a **solo project** and has **no collaborations or external contr
     - Erase PE Header  
     - Close Injector After Inject  
     - Delay Injection  
-6. **Click Inject → Injection Process Complete!**
+6. **Injection Process Complete!**
 
 ### Requirements
 - Windows 10 or newer.
