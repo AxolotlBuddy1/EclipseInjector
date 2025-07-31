@@ -36,6 +36,7 @@ It supports multiple injection methods and advanced stealth options to maximize 
 This software is provided for **educational purposes only**.  
 ❌ Misuse for **cheating**, **piracy**, or **malicious activity** is strictly discouraged and is **your responsibility**.
 
+---
 
 ## ⚙️ Usage
 1. ▶️ **Launch** `EclipseInjector.exe`.
