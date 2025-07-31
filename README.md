@@ -32,9 +32,25 @@ It supports multiple injection methods and advanced stealth options to maximize 
 
 ---
 
-## ⚠️ Disclaimer
-This software is provided for **educational purposes only**.  
-❌ Misuse for **cheating**, **piracy**, or **malicious activity** is strictly discouraged and is **your responsibility**.
+## ⚠️ Important Disclaimer
+> **READ CAREFULLY BEFORE USING THIS SOFTWARE**
+
+Eclipse Injector is provided **strictly for educational, research, and personal learning purposes only**.  
+The project was created as a **technical experiment** to explore Windows internals, PE loading, and DLL injection mechanisms.
+
+✅ **Allowed Use**:
+- Reverse engineering for academic research.
+- Understanding Windows process memory and injection techniques in a controlled, non-malicious environment.
+
+❌ **NOT Allowed**:
+- Cheating in online or offline games (e.g., Valve Anti-Cheat, EAC, BattleEye).
+- Circumventing software protections.
+- Distributing malware, cheats, or harmful modifications.
+
+> **We do NOT condone cheating or malicious activities. Any misuse of this tool is the sole responsibility of the user. The author assumes NO liability for bans, damages, or legal consequences resulting from misuse.**
+
+If you plan to use this in a way that violates **Terms of Service**, **EULAs**, or **laws**, **STOP NOW**.  
+This software was made for **educational purposes only** — nothing else.
 
 ---
 
