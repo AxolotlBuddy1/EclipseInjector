@@ -32,6 +32,11 @@ It supports multiple injection methods and advanced stealth options to maximize 
 
 ---
 
+## ⚠️ Disclaimer
+This software is provided for **educational purposes only**.  
+❌ Misuse for **cheating**, **piracy**, or **malicious activity** is strictly discouraged and is **your responsibility**.
+
+
 ## ⚙️ Usage
 1. ▶️ **Launch** `EclipseInjector.exe`.
 2. 🆔 **Select Target PID** *(Process ID)*.
@@ -53,14 +58,8 @@ It supports multiple injection methods and advanced stealth options to maximize 
 
 ### ✅ Requirements
 - 🖥️ Windows **10 or newer**  
-- 🔑 **Administrator privileges** for protected processes  
-
----
-
-## ⚠️ Disclaimer
-This software is provided for **educational purposes only**.  
-❌ Misuse for **cheating**, **piracy**, or **malicious activity** is strictly discouraged and is **your responsibility**.
-
+- 🔑 **Administrator privileges** for protected processes
+  
 ---
 
 ## 📜 License
@@ -73,3 +72,4 @@ This project uses a custom **No-Modification Redistribution License (NMRL)**:
 💬 Join our [Discord Server](https://discord.gg/bRJnxWx7ne) for **support & updates**.
 
 ---
+*Axolotl Buddy Out!*
