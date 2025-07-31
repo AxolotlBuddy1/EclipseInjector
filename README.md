@@ -1,4 +1,7 @@
 # Eclipse Injector
+<p align="center">
+<img width="430" height="400" alt="img" src="https://github.com/user-attachments/assets/aa7a17cd-33f0-4eb8-882c-a2eda8b44945" />
+</p>
 
 ## Overview
 Eclipse Injector is a prebuilt C++ project designed for advanced DLL injection into Windows processes. It supports multiple injection methods and advanced stealth options to maximize flexibility and detection avoidance.
