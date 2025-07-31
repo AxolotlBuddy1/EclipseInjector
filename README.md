@@ -79,6 +79,9 @@ This software was made for **educational purposes only** — nothing else.
   
 ---
 
+## ⚠️ Warning
+  Eclipse Injector does not provide any mechanics that tries to hide injection. Later on, this may be added, as everything may change.
+
 ## 📜 License
 This project uses a custom **No-Modification Redistribution License (NMRL)**:  
 - ✅ Redistribution of the **original binary** is allowed.  
